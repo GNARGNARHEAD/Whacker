@@ -4,6 +4,12 @@ Whacker is a fast, spin-heavy Pong game wrapped in a coming-of-age sports drama.
 
 You train, develop a playstyle, fight rivals, and try to survive an opponent that wants to make every return miserable. The ball curves, kicks, accelerates, and turns simple returns into pressure. The story layer is built around that pressure: training changes how you play, matches change how people read you, and rivals respond to the identity you build at the table.
 
+## Gameplay
+
+[![Whacker gameplay video](https://img.youtube.com/vi/S4vWU4cQ3m4/hqdefault.jpg)](https://youtu.be/S4vWU4cQ3m4)
+
+[▶ Watch gameplay on YouTube](https://youtu.be/S4vWU4cQ3m4)
+
 ## Screenshots
 
 These captures reflect the current game more honestly than the older root-level development shots.
